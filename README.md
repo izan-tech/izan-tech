@@ -108,7 +108,7 @@ Puedes ponerte en contacto conmigo a través de [Gmail](mailto:izanlazaroegea@gm
         <li><b>QA:</b> Service unit testing with <b>JUnit 5</b>.</li>
       </ul>
       <p>
-        <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A." target="_blank">
+        <a href="https://github.com/izan-tech/Nothingan-PRI-S.A" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub" />
         </a>
         &nbsp;
