@@ -112,7 +112,7 @@ Puedes ponerte en contacto conmigo a través de [Gmail](mailto:izanlazaroegea@gm
           <img src="https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub" />
         </a>
         &nbsp;
-        <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A./blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
+        <a href="https://github.com/izan-tech/Nothingan-PRI-S.A/blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Docs_&_Manual-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Read PDF Documentation" />
         </a>
       </p>
